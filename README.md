@@ -2,9 +2,6 @@
 
 A friendly chatbot built using **Flask**, **HTML/CSS**, **JavaScript**, and **Web Speech API** that supports mental wellness by answering common emotional concerns using voice and text.
 
-## 🚀 Live Demo
-[Click to try it on Render](https://your-render-url.onrender.com) <!-- Replace with actual URL -->
-
 ## 🛠 Tech Stack
 - Python Flask (Backend)
 - HTML, CSS, JavaScript (Frontend)
